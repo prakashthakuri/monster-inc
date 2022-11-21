@@ -21,10 +21,8 @@ export default function Monsters() {
     )
     setNewMonsterNames(filteredSearch)
 
-
   }
 
-  
   return (
 
     <div>
